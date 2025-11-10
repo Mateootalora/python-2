@@ -1,0 +1,1 @@
+{"cells":[{"cell_type":"code","source":"nota_def = float(input(\"Ingrese su nota definitiva: \"))\nif nota_def >= 4.0:\n  print(\"Felicitaciones\")\nelse:\n  print(\"Reprobaste\")","outputs":[],"execution_count":null,"metadata":{}}],"metadata":{"colab":{"from_bard":true},"kernelspec":{"display_name":"Python 3","name":"python3"}},"nbformat":4,"nbformat_minor":0}
